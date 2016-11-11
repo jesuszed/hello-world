@@ -1,2 +1,2 @@
-# hello-world
-Hello world, firts official use of GitHub
+# Hola mundo
+Hola mundo, comenzando con GitHub
